@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+      "esModuleInterop": true,
+      "baseUrl": ".",
+      "paths": {
+        "@shadcn/ui": ["node_modules/@shadcn/ui"]
+
+      },
+      "jsx": "react" 
+      
+    }
+  }
+
+ 
+  
+  
